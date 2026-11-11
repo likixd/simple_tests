@@ -8,11 +8,11 @@ public class NegativeTests {
 
     @Test
     void simpleTest1() {
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
     void simpleTest2() {
-        assertTrue(true);
+        assertTrue(false);
     }
 }
